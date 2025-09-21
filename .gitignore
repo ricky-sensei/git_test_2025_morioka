@@ -1,1 +1,4 @@
 ignore.md
+.venv
+.env
+
